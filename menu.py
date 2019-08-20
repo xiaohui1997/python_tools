@@ -3,10 +3,10 @@ def menu():
     from selects import select
     while True:
         info = """请选择功能:
-        3 安装zabbix(这里是客户端,请谨慎选择)
-	5 安装python3
+        3 安装zabbix4.2.5(客户端)
+	5 安装python3.5
 	6 安装5.7.26
-	7 源码编译安装nginx
+	7 源码编译安装nginx1.14
 	8 源码编译安装redis 5.0
 	10 安装宝塔面板(版本:5.9)
 	11 检测服务器硬件信息
